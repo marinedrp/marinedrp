@@ -5,7 +5,7 @@
 </p>
 
 ## <img src = "https://res.cloudinary.com/dm6a8aocc/image/upload/v1676403602/ezgif-2-874cf25e3c_yvenkc.gif" width = 30px> About me
-<img align="right" src="https://res.cloudinary.com/dm6a8aocc/image/upload/v1676397152/ezgif-4-3bee1beaf4_utntyn.gif" width = 250px>
+<picture><img align="right" src="https://res.cloudinary.com/dm6a8aocc/image/upload/v1676397152/ezgif-4-3bee1beaf4_utntyn.gif" width = 250px></picture> 
 
 <br>
 
