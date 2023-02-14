@@ -4,8 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Play&size=30&duration=3000&pause=1000&color=F28963&center=true&vCenter=true&width=750&lines=Welcome+to+my+profile!;I+am+a+Full+Stack+Developer;Passionate+about+coding+and+creating+cool+apps;Always+looking+to+learn%2C+improve+and+grow;Ready+to+take+on+new+challenges;Check+out+my+work+below!" alt="Typing SVG" /></a>
 </p>
 
-## <picture><img src = "https://res.cloudinary.com/dm6a8aocc/image/upload/v1676403602/ezgif-2-874cf25e3c_yvenkc.gif" width = 30px></picture> About me
-<picture><img align="right" src="https://res.cloudinary.com/dm6a8aocc/image/upload/v1676397152/ezgif-4-3bee1beaf4_utntyn.gif" width = 250px></picture> 
+## <img src = "https://res.cloudinary.com/dm6a8aocc/image/upload/v1676403602/ezgif-2-874cf25e3c_yvenkc.gif" width = 30px> About me
+<img align="right" src="https://res.cloudinary.com/dm6a8aocc/image/upload/v1676397152/ezgif-4-3bee1beaf4_utntyn.gif" width = 250px>
 
 <br>
 
