@@ -9,7 +9,7 @@
 
 <br>
 
-- 🔭 I’m currently working on my portfolio website and another side project
+- 🔭 I’m currently working on my portfolio website and my side projects
 - 📓 I am learning Typescript and Next.js
 - 🏠 I live in Paris, France
 - 💬 I speak English, French, Portuguese and Spanish
