@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Marine! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Play&size=30&duration=3000&pause=1000&color=F28963&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;I+am+a+Full+Stack+Developer;I+like++coding+and+creating+cool+apps;Check+out+my+work+below!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Play&size=32&duration=3000&pause=1000&color=F28963&center=true&vCenter=true&width=525&lines=Welcome+to+my+profile!;I+am+a+Full+Stack+Developer;I+like++coding+and+creating+cool+apps" alt="Typing SVG" /></a>
 </p>
 
 ## <img src = "https://res.cloudinary.com/dm6a8aocc/image/upload/v1676403602/ezgif-2-874cf25e3c_yvenkc.gif" width = 30px> About me
@@ -10,7 +10,7 @@
 <br>
 
 - 🔭 I’m currently working on my 3D portfolio website
-- 📓 I am learning Typescript, React Native and Next.js
+- 📓 I am learning Typescript and React Native
 - 🏠 I live in Paris, France
 - 💬 I speak English, French, Portuguese and Spanish
 
@@ -34,7 +34,7 @@
    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
    <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
-   <img alt="Threejs" src="https://img.shields.io/badge/Threejs-black?style=flat&logo=three.js&logoColor=white" />
+   <img alt="Threejs" src="https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white" />
    
    
 - **Back-End Development**
